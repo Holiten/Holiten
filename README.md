@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Holiten
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning pyhton, html, css, javascript, ...
+- 🌱 I’m currently learning python, html, css, javascript, ...
 - 💞️ I’m looking to collaborate on nothing actually
 - 📫 How to reach me by email on hamiccc@gmail.com or on Discord : Oliten#5673
 
